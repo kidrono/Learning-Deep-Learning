@@ -1,5 +1,5 @@
 # Learning-Deep-Learning
-A collection of academic and non academic resources to become pro deep learning researcher.
+A collection of academic and non academic resources to become a pro deep learning researcher.
 
 ## Academic Courses:
 
@@ -23,5 +23,5 @@ A collection of academic and non academic resources to become pro deep learning 
 
 
 
-## Deep Learning for Audio and Music proccessing
+## Deep Learning for Audio and Music proccessing:
 
