@@ -3,6 +3,25 @@ A collection of academic and non academic resources to become pro deep learning 
 
 ## Academic Courses:
 
-* [Stanford cs231n](http://cs231n.stanford.edu/2017/)
+* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/)
 
-* [MIT - Intro to Deep Learning](http://introtodeeplearning.com/2022/index.html)
+* [MIT - Introduction to Deep Learning](http://introtodeeplearning.com/2022/index.html)
+
+* [NYU - Yann LeCun’s Deep Learning Course](https://cds.nyu.edu/deep-learning/)
+
+## Non Academic Courses:
+
+* [DeepLearning.AI - Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
+
+* [IBM - Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch)
+
+* [PyTorch for Deep Learning & Machine Learning](https://www.youtube.com/watch?v=V_xro1bcAuA)
+
+* [Neural Networks: Zero to Hero by Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero)
+
+## Books:
+
+
+
+## Deep Learning for Audio and Music proccessing
+
