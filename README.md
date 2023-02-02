@@ -25,3 +25,4 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 ## Deep Learning for Audio and Music proccessing:
 
+* [Deep Learning - by Goodfellow, Bengio and Courville](https://www.deeplearningbook.org/)
