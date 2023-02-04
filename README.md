@@ -27,5 +27,5 @@ A collection of academic and non academic resources to become a pro deep learnin
 ## Deep Learning for Audio and Music proccessing:
 ### Youtube Channels:
 
-*[Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI)
+* [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI)
 
