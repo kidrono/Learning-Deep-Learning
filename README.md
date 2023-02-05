@@ -9,6 +9,8 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [NYU - Yann LeCun’s Deep Learning Course](https://cds.nyu.edu/deep-learning/)
 
+* [Stanford - CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/lectures/) - New course, only the lecture notes are available for now (without video). 
+
 ## Non Academic Courses:
 
 * [DeepLearning.AI - Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
