@@ -34,5 +34,7 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI)
 
+* [Gerald Schuller - GuitarsAI](https://www.youtube.com/@GuitarsAI/featured) - Cool Youtube channel of Dr. Gerald Schuller with some interensting courses about DSP, and ML for music
+
 
 
