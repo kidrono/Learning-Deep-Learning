@@ -38,7 +38,7 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [Gerald Schuller - GuitarsAI](https://www.youtube.com/@GuitarsAI/featured) - Cool Youtube channel of reshearcher at Fraunhofer IDMT with some interensting courses about DSP, and ML for music
 
-* [Mila - Music and AI Reading Group](https://www.youtube.com/@musicaireadinggroup945/featured) - Archive of the recorded lectures from the Mila's weekly academic seminar about AI for music 
+* [Mila - Music and AI Reading Group](https://www.youtube.com/@musicaireadinggroup945/featured) - Archive of the recorded lectures from Mila's weekly academic seminar about AI for music 
 
 
 
