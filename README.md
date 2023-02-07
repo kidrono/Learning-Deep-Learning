@@ -21,6 +21,8 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [Neural Networks: Zero to Hero by Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero)
 
+* [HuggingFace Course - NLP](https://huggingface.co/course/chapter1/1)
+
 ## Books:
 
 * [Deep Learning - by Goodfellow, Bengio and Courville](https://www.deeplearningbook.org/)
