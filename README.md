@@ -42,8 +42,8 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 ### Tutorials:
 
-* [Deep Learning for Automatic Mixing - ISMIR Tutorial](https://dl4am.github.io/tutorial/landing-page.html)
+* [Deep Learning for Automatic Mixing - ISMIR tutorial book](https://dl4am.github.io/tutorial/landing-page.html)
 
-* [Music Classification - ISMIR Tutorial](https://music-classification.github.io/tutorial/landing-page.html)
+* [Music Classification - ISMIR tutorial book](https://music-classification.github.io/tutorial/landing-page.html)
 
 
