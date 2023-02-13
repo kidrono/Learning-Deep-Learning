@@ -40,5 +40,10 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [Mila - Music and AI Reading Group](https://www.youtube.com/@musicaireadinggroup945/featured) - Archive of the recorded lectures from Mila weekly academic seminar about AI for music 
 
+### Tutorials:
+
+* [Deep Learning for Automatic Mixing - ISMIR Tutorial](https://dl4am.github.io/tutorial/landing-page.html)
+
+* [Music Classification - ISMIR Tutorial](https://music-classification.github.io/tutorial/landing-page.html)
 
 
