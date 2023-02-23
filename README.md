@@ -27,7 +27,11 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [Deep Learning - by Goodfellow, Bengio and Courville](https://www.deeplearningbook.org/)
 
-* [למידת מכונה ודיפ לרנינג בעברית](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) - ספר שכתב דוקטורנט בבר אילן, אברהם רביב, שמסכם את את הנושאים המרכזיים בתיאוריה בסיסית של דיפ לרנינג. 
+* [למידת מכונה ודיפ לרנינג בעברית](https://github.com/AvrahamRaviv/Deep-Learning-in-Hebrew) - ספר שכתב דוקטורנט בבר אילן, אברהם רביב, שמסכם את את הנושאים המרכזיים בתיאוריה בסיסית של דיפ לרנינג.
+
+## Other Resources:
+
+* [Cohere-ai - NLP tutorials and guides](https://txt.cohere.ai/)
 
 
 ## Deep Learning for Audio and Music proccessing:
