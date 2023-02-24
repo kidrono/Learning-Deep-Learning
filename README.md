@@ -9,6 +9,8 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [NYU - Yann LeCun’s Deep Learning Course](https://cds.nyu.edu/deep-learning/)
 
+* [Stanford - CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) - Recorded lectures videos are available from the 2021 and 2019 versions of the course. 
+
 * [Stanford - CS324: Large Language Models](https://stanford-cs324.github.io/winter2022/lectures/) - New course, only the lecture notes are available for now (without video). 
 
 ## Non Academic Courses:
