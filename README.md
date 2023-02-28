@@ -3,7 +3,7 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 ## Academic Courses:
 
-* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/) - Recorded lectures are available from the 2017 version of the course. 
+* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/) - Recorded lectures are available from the 2017 version of the course
 
 * [MIT - Introduction to Deep Learning](http://introtodeeplearning.com/2022/index.html)
 
