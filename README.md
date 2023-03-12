@@ -3,7 +3,7 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 ## Academic Courses:
 
-* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/) - Recorded lectures are available from the 2017 version of the course
+* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/) - Recorded lectures are available from the 2017 version of the course.
 
 * [MIT - Introduction to Deep Learning](http://introtodeeplearning.com/2022/index.html)
 
@@ -17,9 +17,9 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [DeepLearning.AI - Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 
-* [IBM - Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch) - Good entry level course. Combines basic level pytorch coding and basic level neural network theory. 
+* [PyTorch for Deep Learning & Machine Learning](https://www.youtube.com/watch?v=V_xro1bcAuA) - Very good entry level course. This is a code-based course with very practical approach, but almost without any theory or math.
 
-* [PyTorch for Deep Learning & Machine Learning](https://www.youtube.com/watch?v=V_xro1bcAuA) - Very good entry level course. This is a code-based course with vety practical approach, but almost without any theory or math.
+* [IBM - Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch) - Good entry level course. Combines basic level pytorch coding and basic level neural network theory. 
 
 * [Neural Networks: Zero to Hero by Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero) - Andrej Karpathy is great teacher and researcher. This is a bit more advanced course, and it is also code oriented.
 
