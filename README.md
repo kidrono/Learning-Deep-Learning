@@ -3,11 +3,11 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 ## Academic Courses:
 
-* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/) - Recorded lectures are available from the 2017 version of the course.
+* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/) - Probably the most known DL course. Gives you good understanding of neural networks theory, but lacks practical pytorch examples. Recorded lectures are available from the 2017 version of the course. 
 
 * [MIT - Introduction to Deep Learning](http://introtodeeplearning.com/2022/index.html)
 
-* [NYU - Yann LeCun’s Deep Learning Course](https://cds.nyu.edu/deep-learning/) - the videos on the official website are from 2020, but you can find more updated videos [here](https://www.youtube.com/@alfcnz/playlists)
+* [NYU - Yann LeCun’s Deep Learning Course](https://cds.nyu.edu/deep-learning/) - The videos on the official website are from 2020, but you can find more updated videos [here](https://www.youtube.com/@alfcnz/playlists)
 
 * [Stanford - CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/) - Recorded lectures are available from the 2021 and 2019 versions of the course. 
 
