@@ -3,7 +3,7 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 ## Academic Courses:
 
-* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/) - Probably the most known DL course. Gives you good understanding of neural networks theory, but lacks practical pytorch examples. Recorded lectures are available from the 2017 version of the course. 
+* [Stanford - CS231n: Convolutional Neural Networks](http://cs231n.stanford.edu/2017/) - Probably the most known DL course. Gives you a good understanding of neural networks theory, but lacks practical pytorch examples. The recorded lectures are available from the 2017 version of the course. 
 
 * [MIT - Introduction to Deep Learning](http://introtodeeplearning.com/2022/index.html)
 
@@ -17,11 +17,11 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [DeepLearning.AI - Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
 
-* [PyTorch for Deep Learning & Machine Learning](https://www.youtube.com/watch?v=V_xro1bcAuA) - Very good entry level course. This is a code-based course with very practical approach, but almost without any theory or math.
+* [PyTorch for Deep Learning & Machine Learning](https://www.youtube.com/watch?v=V_xro1bcAuA) - Good entry level course. This is a code-based course with very practical approach, but without any theory or math. Also, the teaching style is not formal at all. 
 
 * [IBM - Deep Neural Networks with PyTorch](https://www.coursera.org/learn/deep-neural-networks-with-pytorch) - Good entry level course. Combines basic pytorch coding and basic neural network theory. 
 
-* [Neural Networks: Zero to Hero by Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero) - Andrej Karpathy is great teacher and researcher. This is a bit more advanced course, and it is also code oriented.
+* [Neural Networks: Zero to Hero by Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero) - Andrej Karpathy is a great teacher and researcher. This is a bit more advanced course, and it is also code oriented course.
 
 * [HuggingFace Course - NLP](https://huggingface.co/course/chapter1/1)
 
@@ -42,11 +42,11 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 ### Youtube Channels:
 
-* [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI)
+* [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI) - Great Youtube Channel about AI for audio and music.
 
-* [Gerald Schuller - GuitarsAI](https://www.youtube.com/@GuitarsAI/featured) - Cool Youtube channel of reshearcher at Fraunhofer IDMT with some interensting courses about DSP, and ML for music
+* [Gerald Schuller - GuitarsAI](https://www.youtube.com/@GuitarsAI/featured) - Cool Youtube channel of reshearcher at Fraunhofer IDMT with some interensting courses about DSP, and ML for music.
 
-* [Mila - Music and AI Reading Group](https://www.youtube.com/@musicaireadinggroup945/featured) - Archive of the recorded lectures from Mila weekly academic seminar about AI for music 
+* [Mila - Music and AI Reading Group](https://www.youtube.com/@musicaireadinggroup945/featured) - Archive of the recorded lectures from Mila weekly academic seminar about AI for music.
 
 ### Tutorials:
 
