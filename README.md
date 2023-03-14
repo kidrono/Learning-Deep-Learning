@@ -44,7 +44,7 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI) - Great Youtube Channel about AI for audio and music.
 
-* [Gerald Schuller - GuitarsAI](https://www.youtube.com/@GuitarsAI/featured) - Cool Youtube channel of reshearcher at Fraunhofer IDMT with some interensting courses about DSP, and ML for music.
+* [Gerald Schuller - GuitarsAI](https://www.youtube.com/@GuitarsAI/featured) - Cool Youtube channel of a reshearcher at Fraunhofer IDMT with some interesting courses about DSP, and ML for music.
 
 * [Mila - Music and AI Reading Group](https://www.youtube.com/@musicaireadinggroup945/featured) - Archive of the recorded lectures from Mila weekly academic seminar about AI for music.
 
