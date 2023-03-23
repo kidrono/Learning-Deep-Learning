@@ -40,6 +40,8 @@ A collection of academic and non academic resources to become a pro deep learnin
 ### Academic Courses:
 * [Musical Applications of Machine Learning - KAIST](https://mac.kaist.ac.kr/~juhan/gct634/) - Lecture slides and python notebooks (without video)
 
+* [Audio Signal Processing for Music - UPF and Stanford](https://www.coursera.org/learn/audio-signal-processing)
+
 ### Youtube Channels:
 
 * [Valerio Velardo - The Sound of AI](https://www.youtube.com/@ValerioVelardoTheSoundofAI) - Great Youtube Channel about AI for audio and music.
