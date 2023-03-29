@@ -33,7 +33,7 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 ## Other Resources:
 
-*[Awesome LLM - Github Repo of many Large Language Models related materials](https://github.com/Hannibal046/Awesome-LLM) - Collection of papers, frameworks, tools, tutorials and courses about LLMs
+* [Awesome LLM - Github Repo of many Large Language Models related materials](https://github.com/Hannibal046/Awesome-LLM) - Collection of papers, frameworks, tools, tutorials and courses about LLMs
 
 * [Cohere-ai - NLP tutorials and guides](https://txt.cohere.ai/)
 
