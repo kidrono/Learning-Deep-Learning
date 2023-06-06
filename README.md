@@ -23,7 +23,9 @@ A collection of academic and non academic resources to become a pro deep learnin
 
 * [Neural Networks: Zero to Hero by Andrej Karpathy](https://github.com/karpathy/nn-zero-to-hero) - Andrej Karpathy is a great teacher and researcher. This is a bit more advanced course, and it is also code oriented course.
 
-* [HuggingFace Course - NLP](https://huggingface.co/course/chapter1/1)
+* [HuggingFace Course - NLP](https://huggingface.co/course/chapter1/1) - Learn to finetune transformers and to use HuggingFace platform and different libraries.
+
+* [Microsoft - AI for begginers](https://microsoft.github.io/AI-For-Beginners/)
 
 ## Books:
 
